@@ -1,0 +1,4 @@
+com\qa\testscript\TC_MakeMyTrip_001.class
+com\qa\testscript\TestBase.class
+com\qa\testscript\TC_MakeMyTrip_002.class
+com\qa\pages\MakeMyTripPages.class
